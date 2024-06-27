@@ -1,1 +1,1 @@
-## Classes in ES6
+0x02-ES6_classes
