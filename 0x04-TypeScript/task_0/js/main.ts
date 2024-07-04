@@ -19,7 +19,7 @@ const student2: Student = {
   location: 'Canada'
 }
 
-const studentList: Array<Student> = [student1, student2];
+const studentList: Student[] = [student1, student2];
 
 const body: HTMLBodyElement = document.getElementsByTagName("body")[0];
 const table: HTMLTableElement = document.createElement('table');
